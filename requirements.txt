@@ -1,6 +1,11 @@
-vega-datasets==0.7.0
-altair==3.2.0
-scikit-learn
 streamlit
-numpy==1.15.4
-pandas==0.25.3
+numpy
+pandas
+streamlit-folium
+folium
+geopandas
+GDAL
+matplotlib
+Shapely
+branca
+rasterio 
