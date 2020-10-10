@@ -4,8 +4,6 @@ pandas
 streamlit-folium
 folium
 geopandas
-GDAL
 matplotlib
 Shapely
 branca
-rasterio 
